@@ -1,0 +1,1 @@
+# godot-resources-rider-plugin
